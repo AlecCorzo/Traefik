@@ -14,3 +14,11 @@ Por otro lado, enrutar por puerto obliga a exponer un puerto diferente por cada 
 Traefik utiliza los **providers** para detectar cambios. Con Docker, se conecta al socket de Docker y escucha los eventos de los de contenedores. De esta manera configura automáticamente los nuevos servicios que tengan labels.
 
 ## Evidencias
+
+![Texto alternativo](imagen 1.png)
+
+![Texto alternativo](imagen 2.png)
+
+![Texto alternativo](imagen 3.png)
+
+![Texto alternativo](imagen 4.png)

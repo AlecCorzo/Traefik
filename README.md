@@ -15,10 +15,10 @@ Traefik utiliza los **providers** para detectar cambios. Con Docker, se conecta 
 
 ## Evidencias
 
-![Texto alternativo](imagen 1.png)
+![](imagen_1.png)
 
-![Texto alternativo](imagen 2.png)
+![](imagen_2.png)
 
-![Texto alternativo](imagen 3.png)
+![](imagen_3.png)
 
-![Texto alternativo](imagen 4.png)
+![](imagen_4.png)
